@@ -14,9 +14,8 @@ int main()
 		{
 			printf("%d\n", X);
 		}
-
 	}
-
+	
 	_getch();
 	return 0;
 }
